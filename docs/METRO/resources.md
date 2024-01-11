@@ -1,4 +1,0 @@
-argparse
-pandas
-xlrd
-numpy
